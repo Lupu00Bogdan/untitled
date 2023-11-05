@@ -3,7 +3,7 @@ package Homework11;
 import java.util.Map;
 import java.util.HashMap;
 
-class IterationDemo
+class iteratingForEach
 {
     public static void main(String[] arg)
     {
